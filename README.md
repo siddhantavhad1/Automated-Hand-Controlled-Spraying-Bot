@@ -4,6 +4,7 @@
 
 <!-- Add your project photograph here -->
 <!-- ![Automated Hand Controlled Spraying Bot](08_Media/project-main.jpg) -->
+Picture/Picture3.jpg
 
 ## Overview
 
